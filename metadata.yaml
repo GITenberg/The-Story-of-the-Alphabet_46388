@@ -1,0 +1,31 @@
+_repo: The-Story-of-the-Alphabet_46388
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46388-h/images/cover_image.jpg
+creator:
+  author:
+    agent_name: Clodd, Edward
+    aliases:
+    - Clodd, E.
+    - Clodd, Edw. (Edward)
+    birthdate: 1840
+    deathdate: 1930
+    gutenberg_agent_id: '40063'
+    url: http://www.gutenberg.org/2009/agents/40063
+description: ''
+gutenberg_issued: '2014-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46388'
+  lccn: '95200462'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'P'
+- !lcsh 'Writing -- History'
+- !lcsh 'Alphabet'
+title: The Story of the Alphabet
+url: http://www.gutenberg.org/ebooks/46388
